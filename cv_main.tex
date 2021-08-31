@@ -1,0 +1,91 @@
+\documentclass[12pt]{article}
+\usepackage[top=1.5in, bottom=1.2in, left=0.75in, right=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{mathpazo}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{datetime}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+\usepackage{enumitem}
+\usepackage{changepage}
+\usepackage{etaremune}\usepackage{contour}
+\usepackage{ulem}
+\usepackage{xspace}
+\usepackage{hyperref}
+
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+
+\newcommand{\myuline}[1]{%
+  \uline{\phantom{#1}}%
+  \llap{\contour{white}{#1}}%
+}
+
+% hyperlinks
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+
+% sectioning
+\titleformat*{\section}{\Huge\bfseries\itshape}
+\titleformat*{\subsection}{\Large\bfseries\itshape}
+\titleformat*{\paragraph}{\bfseries}
+\setlength{\parindent}{0pt}
+
+\titlespacing*{\paragraph}{1em}{1.25ex plus 1ex minus .2ex}{1ex}
+
+% table stuff
+% \newcolumntype{R}[1]{>{\RaggedLeft\arraybackslash}p{#1}}
+\renewcommand{\arraystretch}{1.2}
+
+% date formatting
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+
+% header and footer stuff
+\pagestyle{fancy}
+ 
+% clear all header and footer fields
+\fancyhf{}
+
+% remove header bar
+\renewcommand{\headrulewidth}{0pt}
+
+% date updated
+\fancyfoot[L]{Updated: \monthyeardate\today}
+
+% page number
+\fancyfoot[R]{Page \thepage\ of \pageref*{LastPage} }
+
+% name
+\fancyhead[L]{
+    \ifnum\value{page}=1 
+    \else
+        \Large\textit{Michael R. May}
+    \fi
+}
+
+% contact info
+\fancyhead[R]{
+    \ifnum\value{page}=1 
+    \else
+        \href{mailto:mikeryanmay@gmail.com}{\myuline{mikeryanmay@gmail.com}}\\
+        \href{https://mikeryanmay.github.io/}{\myuline{mikeryanmay.github.io}}
+    \fi
+}
+
+\sloppy
+\begin{document}
+
+\include{cv_content}
+
+\end{document}

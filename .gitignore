@@ -1,0 +1,7 @@
+# blacklist (everything)
+*
+
+# a whitelist
+!.gitignore
+!cv_main.tex
+!cv_content.tex
