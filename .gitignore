@@ -4,4 +4,8 @@
 # a whitelist
 !.gitignore
 !cv_main.tex
-!cv_content.tex
+!cv.md
+!Makefile
+!format.R
+!cv_main.pdf
+!cv.html

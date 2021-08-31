@@ -14,10 +14,17 @@
 \usepackage{ragged2e}
 \usepackage{enumitem}
 \usepackage{changepage}
-\usepackage{etaremune}\usepackage{contour}
+\usepackage{etaremune}
+\usepackage{contour}
 \usepackage{ulem}
 \usepackage{xspace}
+\usepackage{longtable}
 \usepackage{hyperref}
+
+\let\emph\relax % there's no \RedeclareTextFontCommand
+\DeclareTextFontCommand{\emph}{\itshape}
+
+\renewcommand{\texttt}[1]{\myuline{#1}}
 
 \renewcommand{\ULdepth}{1.8pt}
 \contourlength{0.8pt}
@@ -26,6 +33,15 @@
   \uline{\phantom{#1}}%
   \llap{\contour{white}{#1}}%
 }
+
+% \renewcommand{\underline}[1]{%
+%     \uline{\phantom{#1}}%
+%     \llap{\contour{white}{#1}}%
+% }
+% \renewcommand{\emph}[1]{%
+%     \uline{\phantom{#1}}%
+%     \llap{\contour{white}{#1}}%
+% }
 
 % hyperlinks
 \hypersetup{
@@ -95,6 +111,9 @@
 \begin{document}
 
 \thispagestyle{firststyle}
-\include{cv_content}
+
+% \include{cv_content}
+\section*{Michael R. May}
+\input{cv}
 
 \end{document}
