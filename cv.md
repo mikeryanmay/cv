@@ -70,7 +70,7 @@ NSF GRFP Predoctoral Fellowship (2011--2016)
 | 2018 | Instructor for Madrid Phylogenetics Workshop. |
 | 2018 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). |
 | 2017 | Organizer and instructor for Bodega Applied Phylogenetics Workshop. |
-| 2016 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). Awarded UC Davis Outstanding Graduate Student Teaching Award 2017._ |
+| 2016 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). _Awarded UC Davis Outstanding Graduate Student Teaching Award 2017._ |
 | 2015 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
 | 2014 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
 | 2013 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
