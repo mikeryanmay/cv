@@ -3,6 +3,7 @@
 
 # a whitelist
 !.gitignore
+!README.md
 !cv.md
 !mrm_cv.tex
 !format.R
