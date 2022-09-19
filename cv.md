@@ -1,28 +1,25 @@
-Department of Integrative Biology, University of California, Berkeley  
-University Herbarium, University of California, Berkeley  
 Center for Population Biology, University of California, Davis  
-<br/>
-3040 Valley Life Sciences Building #3140  
-Berkeley, CA 94720-3140  
 Email: [`mikeryanmay@gmail.com`](mailto:mikeryanmay@gmail.com)  
 Website: [`mikeryanmay.github.io`](https://mikeryanmay.github.io)  
 
 ## Education and Appointments
 
 | 2020--present | Postdoctoral scholar, UC Davis |
-| 2019--present | Postdoctoral scholar, UC Berkeley |
+| 2019--2021    | Postdoctoral scholar, UC Berkeley |
 | 2011--2019    | PhD, Population Biology, UC Davis |
 | 2008--2010    | BS, Evolution, Ecology and Biodiversity, UC Davis (Highest Honors) |
 
 ## Publications
 
-18. **May, M. R.** & Rothfels, C. J. (2021). *Mistreating birth-death models as priors in phylogenetic analysis compromises our ability to compare
-models.* `bioRxiv`; submitted. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1). [Slides](https://www.youtube.com/watch?v=SWldXeWet68&feature=youtu.be).
-17. Tribble, C. M., Freyman, W. A., Landis, M. J., Lim, J. Y., Barido-Sottani, J., Kopperud, B. T., Höhna, S. & **May, M. R.** (2021). *RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes.* `bioRxiv`; in review at `Methods in Ecology and Evolution`. [Link](https://www.biorxiv.org/content/10.1101/2021.05.10.443470v1).
-16. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, & Moore, B. R. (2021). *A Bayesian approach for estimating branch-specific speciation and extinction rates.* `bioRxiv`; in revision. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1).
-15. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2021). *Phylodynamic insights on the early spread of the COVID-19 pandemic and the efficacy of intervention measures.* `bioRxiv`; in revision. [Link](https://www.biorxiv.org/content/10.1101/2021.05.01.442286v1).
-14. Barido-Sottani, J., Justison, J. A., Borges, Rui., Brown, J. M., Dismukes, W., do Rosario, P., \..., **May, M. R.**, \..., & Heath, T. A. (2021). *Lessons learned from organizing and teaching virtual phylogenetics workshops.* In review at `Bulletin of the Society of Systematic Biologists`.
-13. **May, M. R.**, Contreras, D. L., Sundue, M. A., Nagalingum, N. S., Looy, C. V., & Rothfels, C. J. (2021). *Inferring the total-evidence timescale of Marattialean fern evolution in the face of model sensitivity.* `Systematic Biology`, in press. [Link](https://doi.org/10.1093/sysbio/syab020). [Slides](https://www.youtube.com/watch?v=5H_u9bjn064).
+21. **May, M. R.** & Rothfels, C. J. (2022). *Mistreating birth-death models as priors in phylogenetic analysis compromises our ability to compare models.* `bioRxiv`; submitted. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1). [Slides](https://www.youtube.com/watch?v=SWldXeWet68&feature=youtu.be).
+20. Tribble, C. M., **May, M. R.**, Jackson-Gain, A., Zenil-Ferguson, R., Specht, C. D., & Rothfels, C. J. (2022) *Unearthing modes of climatic adaptation in underground storage organs across Liliales.* `bioRxiv`; submitted. [Link](https://doi.org/10.1101/2021.09.03.458928)
+19. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, & Moore, B. R. (2022). *A Bayesian approach for estimating branch-specific speciation and extinction rates.* `bioRxiv`; in revision. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1).
+18. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *PrioriTree: a utility for improving phylodynamic analyses in BEAST.* `bioRxiv`; submitted. [Link](doi: https://doi.org/10.1101/2022.08.24.505196).
+17. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *Model Misspecification Misleads Inference of the Spatial Dynamics of Disease Outbreaks.* `medRxiv`; submitted. [Link](https://doi.org/10.1101/2022.08.24.22278802).
+16. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *New Phylogenetic Models Incorporating Interval-Specific Dispersal Dynamics Improve Inference of Disease Spread.* `Molecular Biology and Evolution`. [Link](https://doi.org/10.1093/molbev/msac159).
+15. Barido-Sottani, J., Justison, J. A., Borges, Rui., Brown, J. M., Dismukes, W., do Rosario, P., \..., **May, M. R.**, \..., & Heath, T. A. (2022). *Lessons learned from organizing and teaching virtual phylogenetics workshops.* `Bulletin of the Society of Systematic Biologists`. [Link](https://doi.org/10.18061/bssb.v1i2.8425)
+14. Tribble, C. M., Freyman, W. A., Landis, M. J., Lim, J. Y., Barido-Sottani, J., Kopperud, B. T., Höhna, S. & **May, M. R.** (2022). *RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes.* `Methods in Ecology and Evolution`. [Link](https://doi.org/10.1111/2041-210X.13750).
+13. **May, M. R.**, Contreras, D. L., Sundue, M. A., Nagalingum, N. S., Looy, C. V., & Rothfels, C. J. (2021). *Inferring the total-evidence timescale of Marattialean fern evolution in the face of model sensitivity.* `Systematic Biology`. [Link](https://doi.org/10.1093/sysbio/syab020). [Slides](https://www.youtube.com/watch?v=5H_u9bjn064).
 12. Thompson A., **May M. R.**, Moore, B. R. & Kopp A. (2020). *A hierarchical Bayesian mixture model for inferring the expression state of genes in transcriptomes.* `Proceedings of the National Academy of Sciences` 117(32), 19339--19346. [Link](https://doi.org/10.1073/pnas.1919748117).
 11. **May, M. R.** & Moore, B. R. (2020). *A Bayesian approach for inferring the impact of a discrete character on rates of continuous-character evolution in the presence of background-rate variation.* `Systematic Biology` 69(3), 530--544. [Link](https://doi.org/10.1093/sysbio/syz069).
 10. Turelli, M., Cooper, B. S., Richardson, K. M., Ginsberg, P. S., Peckenpaugh, B., Antelope, C. X., \..., **May, M. R.**, \... & Hoffmann, A. A. (2018). *Rapid global spread of wRi-like Wolbachia across multiple Drosophila.* `Current Biology` 28(6), 963--971. [Link](https://linkinghub.elsevier.com/retrieve/pii/S0960982218301696).
@@ -40,6 +37,7 @@ repeats from hundreds of species reveals unique insights into centromere evoluti
 
 ## Presentations
 
+9. **May, M. R.** & Meyer, X. (2022). *TensorPhylo: a high-performance library for a general class of state-dependent birth-death models* `Joint Annual Evolution Meeting`.
 8. **May, M. R.** & Rothfels, C. J. (2021). *Mistreating birth-death models as priors in phylogenetic analysis compromises our ability to compare models.* `Botanical Society of America Conference`. (Invited.)
 7. **May, M. R.**, Contreras, D. L., Sundue, M. A., Nagalingum, N. S., Looy, C. V., & Rothfels, C. J. (2021). *Inferring the total-evidence timescale of marattialean fern evolution in the face of model sensitivity.* `Joint Annual Evolution Meeting`.
 6. **May, M. R.** & Moore, B. R. (2017). *A Bayesian method for inferring discrete-state dependent rates of continuous-trait evolution.* `Joint
@@ -64,6 +62,7 @@ NSF GRFP Predoctoral Fellowship (2011--2016)
 
 ## Teaching
 
+| 2022 | Instructor for Computational Molecular Evolution (CoME) Workshop (Hinxton, UK). |
 | 2021 | Instructor for Stay-At-Home RevBayes Workshop. |
 | 2019 | Instructor for Madrid Phylogenetics Workshop. |
 | 2019 | Organizer and instructor for Bodega Applied Phylogenetics Workshop. |
@@ -78,6 +77,7 @@ NSF GRFP Predoctoral Fellowship (2011--2016)
 
 ## Software Tutorials
 
+14. **May, M. R.** *Total-evidence dating, model sensitivity, and model comparison.* [Link](https://revbayes.github.io/tutorials/ted_workflow/)
 13. **May, M. R.** & Höhna, S. *Rev Language Syntax: A very short introduction to the Rev language.* [Link](https://revbayes.github.io/tutorials/intro/rev.html).
 12. Tribble, C. M. & **May, M. R.** *Introduction to RevGadgets: Plotting the output of RevBayes analyses in the R package RevGadgets.* [Link](https://revbayes.github.io/tutorials/intro/revgadgets.html).
 11. **May, M. R.**, Moore, B. R., & Höhna, S. *Introduction to MCMC using RevBayes: Introduction to MCMC simulation using a simple binomial model.* [Link](https://revbayes.github.io/tutorials/mcmc/binomial.html).
