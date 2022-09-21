@@ -15,8 +15,8 @@ Website: [`mikeryanmay.github.io`](https://mikeryanmay.github.io)
 20. Tribble, C. M., **May, M. R.**, Jackson-Gain, A., Zenil-Ferguson, R., Specht, C. D., & Rothfels, C. J. (2022) *Unearthing modes of climatic adaptation in underground storage organs across Liliales.* `bioRxiv`; submitted. [Link](https://doi.org/10.1101/2021.09.03.458928)
 19. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, & Moore, B. R. (2022). *A Bayesian approach for estimating branch-specific speciation and extinction rates.* `bioRxiv`; in revision. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1).
 18. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *PrioriTree: a utility for improving phylodynamic analyses in BEAST.* `bioRxiv`; submitted. [Link](doi: https://doi.org/10.1101/2022.08.24.505196).
-17. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *Model Misspecification Misleads Inference of the Spatial Dynamics of Disease Outbreaks.* `medRxiv`; submitted. [Link](https://doi.org/10.1101/2022.08.24.22278802).
-16. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *New Phylogenetic Models Incorporating Interval-Specific Dispersal Dynamics Improve Inference of Disease Spread.* `Molecular Biology and Evolution`. [Link](https://doi.org/10.1093/molbev/msac159).
+17. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *Model misspecification misleads inference of the spatial dynamics of disease outbreaks.* `medRxiv`; submitted. [Link](https://doi.org/10.1101/2022.08.24.22278802).
+16. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *New phylogenetic models incorporating interval-specific dispersal dynamics improve inference of disease spread.* `Molecular Biology and Evolution`. [Link](https://doi.org/10.1093/molbev/msac159).
 15. Barido-Sottani, J., Justison, J. A., Borges, Rui., Brown, J. M., Dismukes, W., do Rosario, P., \..., **May, M. R.**, \..., & Heath, T. A. (2022). *Lessons learned from organizing and teaching virtual phylogenetics workshops.* `Bulletin of the Society of Systematic Biologists`. [Link](https://doi.org/10.18061/bssb.v1i2.8425)
 14. Tribble, C. M., Freyman, W. A., Landis, M. J., Lim, J. Y., Barido-Sottani, J., Kopperud, B. T., Höhna, S. & **May, M. R.** (2022). *RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes.* `Methods in Ecology and Evolution`. [Link](https://doi.org/10.1111/2041-210X.13750).
 13. **May, M. R.**, Contreras, D. L., Sundue, M. A., Nagalingum, N. S., Looy, C. V., & Rothfels, C. J. (2021). *Inferring the total-evidence timescale of Marattialean fern evolution in the face of model sensitivity.* `Systematic Biology`. [Link](https://doi.org/10.1093/sysbio/syab020). [Slides](https://www.youtube.com/watch?v=5H_u9bjn064).
@@ -63,6 +63,7 @@ NSF GRFP Predoctoral Fellowship (2011--2016)
 ## Teaching
 
 | 2022 | Instructor for Computational Molecular Evolution (CoME) Workshop (Hinxton, UK). |
+| 2022 | Organizer for Divergence-time Estimation Workshop. [Link](https://mikeryanmay.github.io/ted.workshop.github.io/). |
 | 2021 | Instructor for Stay-At-Home RevBayes Workshop. |
 | 2019 | Instructor for Madrid Phylogenetics Workshop. |
 | 2019 | Organizer and instructor for Bodega Applied Phylogenetics Workshop. |
