@@ -11,7 +11,7 @@ Website: [`mikeryanmay.github.io`](https://mikeryanmay.github.io)
 
 ## Publications
 
-21. **May, M. R.** & Rothfels, C. J. (2022). *Mistreating birth-death models as priors in phylogenetic analysis compromises our ability to compare models.* `bioRxiv`; submitted. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1). [Slides](https://www.youtube.com/watch?v=SWldXeWet68&feature=youtu.be).
+21. **May, M. R.** & Rothfels, C. J. (2022). *Diversification models conflate likelihood and prior, and cannot be compared using conventional model-comparison tools.* `bioRxiv`; submitted. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1). [Slides](https://www.youtube.com/watch?v=SWldXeWet68&feature=youtu.be).
 20. Tribble, C. M., **May, M. R.**, Jackson-Gain, A., Zenil-Ferguson, R., Specht, C. D., & Rothfels, C. J. (2022) *Unearthing modes of climatic adaptation in underground storage organs across Liliales.* `bioRxiv`; submitted. [Link](https://doi.org/10.1101/2021.09.03.458928)
 19. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, & Moore, B. R. (2022). *A Bayesian approach for estimating branch-specific speciation and extinction rates.* `bioRxiv`; in revision. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1).
 18. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *PrioriTree: a utility for improving phylodynamic analyses in BEAST.* `bioRxiv`; submitted. [Link](doi: https://doi.org/10.1101/2022.08.24.505196).
