@@ -1,17 +1,29 @@
-Center for Population Biology, University of California, Davis  
+Department of Biology, Utah State University, Logan, Utah (remote)    
 Email: [`mikeryanmay@gmail.com`](mailto:mikeryanmay@gmail.com)  
 Website: [`mikeryanmay.github.io`](https://mikeryanmay.github.io)  
 
 ## Education and Appointments
 
-| 2020--present | Postdoctoral scholar, UC Davis |
+| 2025--present | Postdoctoral scholar, Utah State University |
+| 2020--2025    | Postdoctoral scholar, UC Davis |
 | 2019--2021    | Postdoctoral scholar, UC Berkeley |
 | 2011--2019    | PhD, Population Biology, UC Davis |
 | 2008--2010    | BS, Evolution, Ecology and Biodiversity, UC Davis (Highest Honors) |
 
+## Primary Computational Skills
+
+**Languages:** C++ (fluent), R (fluent), bash (fluent), HTML (intermediate), JavaScript (intermediate), julia (beginner), Java (reading level).   
+<br/>
+**Tools:** Git, Meson, Ninja, cmake, GDB, Valgrind, SLURM, Docker
+
 ## Publications
 
-21. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, & Moore, B. R. (2022). *A Bayesian approach for estimating branch-specific speciation and extinction rates.* `bioRxiv`; in revision. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1).
+27. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, & Moore, B. R. (2025). *A Bayesian approach for estimating branch-specific speciation and extinction rates.* `bioRxiv`; in review. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1).
+26. Petrucci, B. d. R., **May, M. R.**, & Heath, T. A. (2025). *Fossils improve extinction-rate estimates under state-dependent diversification models.* `Philosophical Transactions B`. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2023.0313)
+25. Mulvey, L. P. A., **May, M. R.**, Brown, J.M, Höhna, S., Wright, A. M., & Warnock, R. C. M. (2025). *Assessing the adequacy of morphological models using posterior predictive simulations.* `Systematic Biology` syae055. [Link](https://academic.oup.com/sysbio/article/74/1/34/7814882)
+24. **May, M. R.** & Rannala, B. (2024). *Early detection of highly transmissible viral variants using phylogenomics.* `Science Advances`. [Link](https://www.science.org/doi/10.1126/sciadv.adk7623)
+23. Calderón Del Cid, C., Hauffe, T., Carrillo, J. D., **May, M. R.**, Warnock, R. C. M., & Silvestro, D. (2024). *Challenges in estimating species' age from phylogenetic trees.* `Global Ecology and Biogeography`. [Link](https://onlinelibrary.wiley.com/doi/10.1111/geb.13890)
+22. Tribble, C. M., Márquez-Corro, J. I., **May, M. R.**, Hipp, A. J., Escudero, M., & Zenil-Ferguson, R. (2024) *Macroevolutionary inference of complex modes of chromosomal speciation in a cosmopolitan plant lineage.* `New Phytologist`. [Link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20353)
 20. **May, M. R.** & Rothfels, C. J. (2023). *Diversification models conflate likelihood and prior, and cannot be compared using conventional model-comparison tools.* `Systematic Biology`  syad010. [Link](https://doi.org/10.1093/sysbio/syad010). [Slides](https://www.youtube.com/watch?v=SWldXeWet68&feature=youtu.be).
 19. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2023). *PrioriTree: a utility for improving phylodynamic analyses in BEAST.* `Bioinformatics` 39(1), btac849 [Link](https://academic.oup.com/bioinformatics/article/39/1/btac849/6967033).
 18. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2023). *Model misspecification misleads inference of the spatial dynamics of disease outbreaks.* `Proceedings of the National Academy of Sciences` 120(11), e221391312. [Link](https://www.pnas.org/doi/10.1073/pnas.2213913120).
@@ -35,7 +47,7 @@ repeats from hundreds of species reveals unique insights into centromere evoluti
 1. **May, M. R.**, Provance, M. C., Sanders, A. C., Ellstrand, N. C., & Ross-Ibarra, J. (2009). *A Pleistocene clone of Palmer's oak persisting in southern California.* `PLoS One` 4(12), e8346. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346).
 {: reversed="reversed"}
 
-## Presentations
+<!-- ## Presentations
 
 9. **May, M. R.** & Meyer, X. (2022). *TensorPhylo: a high-performance library for a general class of state-dependent birth-death models* `Joint Annual Evolution Meeting`.
 8. **May, M. R.** & Rothfels, C. J. (2021). *Mistreating birth-death models as priors in phylogenetic analysis compromises our ability to compare models.* `Botanical Society of America Conference`. (Invited.)
@@ -53,27 +65,27 @@ Annual Evolution Meeting; Portland, Oregon`.
 
 UC Davis Outstanding Graduate Student Teaching Award (2017)  
 NSF GRFP Predoctoral Fellowship (2011--2016)
+ -->
 
-## Societies and Services
+
+<!-- ## Societies and Services
 
 **Member of:** _Society of Systematic Biologist_, _Society for the Study of Evolution_, _Botanical Society of America_.  
 <br/>
 **Peer review for:** _Systematic Biology_, _Proceedings of the National Academy of Sciences_, _Proceedings of the Royal Society B_, _Methods in Ecology and Evolution_, _Frontiers in Plant Science_, _Functional Ecology_, _Molecular Biology and Evolution_, _PLoS One_, _PeerJ_.
+ -->
 
 ## Teaching
 
-| 2022 | Instructor for Computational Molecular Evolution (CoME) Workshop (Hinxton, UK). |
+| 2022--2025 | Instructor for Computational Molecular Evolution (CoME) Workshop (Hinxton, UK, and Crete, GR). |
 | 2022 | Organizer for Divergence-time Estimation Workshop. [Link](https://mikeryanmay.github.io/ted.workshop.github.io/). |
-| 2021 | Instructor for Stay-At-Home RevBayes Workshop. |
-| 2019 | Instructor for Madrid Phylogenetics Workshop. |
+| 2019--2022 | Instructor for Madrid Phylogenetics Workshop. |
 | 2019 | Organizer and instructor for Bodega Applied Phylogenetics Workshop. |
 | 2018 | Instructor for Madrid Phylogenetics Workshop. |
 | 2018 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). |
 | 2017 | Organizer and instructor for Bodega Applied Phylogenetics Workshop. |
 | 2016 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). _Awarded UC Davis Outstanding Graduate Student Teaching Award 2017._ |
-| 2015 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
-| 2014 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
-| 2013 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
+| 2013--2015 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
 | 2012 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). |
 
 ## Software Tutorials
