@@ -6,9 +6,14 @@ lines <- gsub("enumerate", "etaremune", lines)
 lines <- gsub("item{}", "item", lines, fixed=TRUE)
 
 # format the tables
-lines <- gsub("\\begin{longtable}{|l|l|}", "\\begin{tabularx}{\\textwidth}{@{}lX}", lines, fixed=TRUE)
-lines <- gsub("\\end{longtable}", "\\end{tabularx}", lines, fixed=TRUE)
+lines <- gsub("\\begin{longtable}{|l|l|}", "\\begin{xltabular}{\\textwidth}{@{}lX}", lines, fixed=TRUE)
+lines <- gsub("\\end{longtable}", "\\end{xltabular}", lines, fixed=TRUE)
 lines <- lines[grepl("hline", lines) == FALSE]
+
+# Add a small gap between the professional-service paragraphs in the PDF.
+service_entries <- startsWith(lines, "\\textbf{Member of:}") |
+                   startsWith(lines, "\\textbf{Peer review for:}")
+lines[service_entries] <- paste0("\\smallskip\n", lines[service_entries])
 
 # write the tex
 writeLines(lines, con="cv.tex")

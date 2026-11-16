@@ -10,40 +10,48 @@ Website: [`mikeryanmay.github.io`](https://mikeryanmay.github.io)
 | 2011--2019    | PhD, Population Biology, UC Davis |
 | 2008--2010    | BS, Evolution, Ecology and Biodiversity, UC Davis (Highest Honors) |
 
-## Primary Computational Skills
+<!-- ## Primary Computational Skills
 
 **Languages:** C++ (fluent), R (fluent), bash (fluent), HTML (intermediate), JavaScript (intermediate), julia (beginner), Java (reading level).   
 <br/>
-**Tools:** Git, Meson, Ninja, cmake, GDB, Valgrind, SLURM, Docker
+**Tools:** Git, Meson, Ninja, cmake, GDB, Valgrind, SLURM, Docker -->
 
 ## Publications
 
-27. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, & Moore, B. R. (2025). *A Bayesian approach for estimating branch-specific speciation and extinction rates.* `bioRxiv`; in review. [Link](https://www.biorxiv.org/content/10.1101/2021.07.12.452074v1).
-26. Petrucci, B. d. R., **May, M. R.**, & Heath, T. A. (2025). *Fossils improve extinction-rate estimates under state-dependent diversification models.* `Philosophical Transactions B`. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2023.0313)
-25. Mulvey, L. P. A., **May, M. R.**, Brown, J.M, Höhna, S., Wright, A. M., & Warnock, R. C. M. (2025). *Assessing the adequacy of morphological models using posterior predictive simulations.* `Systematic Biology` syae055. [Link](https://academic.oup.com/sysbio/article/74/1/34/7814882)
-24. **May, M. R.** & Rannala, B. (2024). *Early detection of highly transmissible viral variants using phylogenomics.* `Science Advances`. [Link](https://www.science.org/doi/10.1126/sciadv.adk7623)
-23. Calderón Del Cid, C., Hauffe, T., Carrillo, J. D., **May, M. R.**, Warnock, R. C. M., & Silvestro, D. (2024). *Challenges in estimating species' age from phylogenetic trees.* `Global Ecology and Biogeography`. [Link](https://onlinelibrary.wiley.com/doi/10.1111/geb.13890)
-22. Tribble, C. M., Márquez-Corro, J. I., **May, M. R.**, Hipp, A. J., Escudero, M., & Zenil-Ferguson, R. (2024) *Macroevolutionary inference of complex modes of chromosomal speciation in a cosmopolitan plant lineage.* `New Phytologist`. [Link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20353)
-20. **May, M. R.** & Rothfels, C. J. (2023). *Diversification models conflate likelihood and prior, and cannot be compared using conventional model-comparison tools.* `Systematic Biology`  syad010. [Link](https://doi.org/10.1093/sysbio/syad010). [Slides](https://www.youtube.com/watch?v=SWldXeWet68&feature=youtu.be).
-19. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2023). *PrioriTree: a utility for improving phylodynamic analyses in BEAST.* `Bioinformatics` 39(1), btac849 [Link](https://academic.oup.com/bioinformatics/article/39/1/btac849/6967033).
-18. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2023). *Model misspecification misleads inference of the spatial dynamics of disease outbreaks.* `Proceedings of the National Academy of Sciences` 120(11), e221391312. [Link](https://www.pnas.org/doi/10.1073/pnas.2213913120).
-17. Tribble, C. M., **May, M. R.**, Jackson-Gain, A., Zenil-Ferguson, R., Specht, C. D., & Rothfels, C. J. (2022) *Unearthing modes of climatic adaptation in underground storage organs across Liliales.* `Systematic Biology` syac070. [Link](https://doi.org/10.1093/sysbio/syac070)
-16. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *New phylogenetic models incorporating interval-specific dispersal dynamics improve inference of disease spread.* `Molecular Biology and Evolution`. [Link](https://doi.org/10.1093/molbev/msac159).
-15. Barido-Sottani, J., Justison, J. A., Borges, Rui., Brown, J. M., Dismukes, W., do Rosario, P., \..., **May, M. R.**, \..., & Heath, T. A. (2022). *Lessons learned from organizing and teaching virtual phylogenetics workshops.* `Bulletin of the Society of Systematic Biologists`. [Link](https://doi.org/10.18061/bssb.v1i2.8425)
-14. Tribble, C. M., Freyman, W. A., Landis, M. J., Lim, J. Y., Barido-Sottani, J., Kopperud, B. T., Höhna, S. & **May, M. R.** (2022). *RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes.* `Methods in Ecology and Evolution`. [Link](https://doi.org/10.1111/2041-210X.13750).
-13. **May, M. R.**, Contreras, D. L., Sundue, M. A., Nagalingum, N. S., Looy, C. V., & Rothfels, C. J. (2021). *Inferring the total-evidence timescale of Marattialean fern evolution in the face of model sensitivity.* `Systematic Biology`. [Link](https://doi.org/10.1093/sysbio/syab020). [Slides](https://www.youtube.com/watch?v=5H_u9bjn064).
-12. Thompson A., **May M. R.**, Moore, B. R. & Kopp A. (2020). *A hierarchical Bayesian mixture model for inferring the expression state of genes in transcriptomes.* `Proceedings of the National Academy of Sciences` 117(32), 19339--19346. [Link](https://doi.org/10.1073/pnas.1919748117).
+34. **May, M. R.** & Rothfels, C. J. (2026). *An explicit birth-death-reticulation model for studying the diversification of phylogenetic networks.* `bioRxiv`; preprint. [Link](https://doi.org/10.64898/2026.09.11.750987).
+33. **May, M. R.** & Rannala, B. (2026). *A method for detecting transmission-enhancing mutations in viral genomes.* `Proceedings of the Royal Society B` 293(2073), 20260532. [Link](https://doi.org/10.1098/rspb.2026.0532).
+32. Höhna, S., Freyman, W. A., Nolen, Z., Huelsenbeck, J. P., **May, M. R.**, Rannala, B., & Moore, B. R. (2026). *Inferring branch-specific rates of lineage diversification under the birth--death-shift process.* `Systematic Biology` 75(5), 948--966. [Link](https://doi.org/10.1093/sysbio/syag003).
+31. Tribble, C. M., Martínez-Gómez, J., Rothfels, C. J., & **May, M. R.** (2026). *An evolving view of character macroevolution.* `Systematic Biology` 75(4), 617--641. [Link](https://doi.org/10.1093/sysbio/syag034).
+30. Buchloh, T. D., Tribble, C. M., **May, M. R.**, & Wickett, N. J. (2026). *Chromosome evolution model reveals hidden variation in fern diversification rates.* `Systematic Biology` syag054; advance online publication. [Link](https://doi.org/10.1093/sysbio/syag054).
+29. Lichter-Marck, I. H., Swiston, S. K., Mendes, F. K., **May, M. R.**, Neupane, S., Baldwin, B. G., Wood, K. R., Rønsted, N., Wagner, W. L., Zapata, F., & Landis, M. J. (2026). *Synchronizing speciation, extinction, and dispersal to island paleodynamics through Bayesian phylogenetics in a Hawaiian plant radiation.* `bioRxiv`; preprint, version 2. [Link](https://www.biorxiv.org/content/10.64898/2025.12.16.694722v2).
+28. Ding, W., Ree, R. H., **May, M. R.**, Brun, P., Hagen, O., Karger, D. N., Skeels, A., Pellissier, L., Xing, Y., & Zimmermann, N. E. (2025). *The asynchronous rise of Northern Hemisphere alpine floras reveals general responses of biotic assembly to orogeny and climate change.* `Science Advances` 11(51), eadz1888. [Link](https://doi.org/10.1126/sciadv.adz1888).
+27. Thompson, A., **May, M. R.**, Hopkins, B. R., Riedl, N., Barmina, O., Liebeskind, B. J., Zhao, L., Begun, D., & Kopp, A. (2025). *Quantifying transcriptome turnover on phylogenies by modeling gene expression as a binary trait.* `Molecular Biology and Evolution` 42(5), msaf106. [Link](https://doi.org/10.1093/molbev/msaf106).
+26. do Rosario Petrucci, B., **May, M. R.**, & Heath, T. A. (2025). *Fossils improve extinction-rate estimates under state-dependent diversification models.* `Philosophical Transactions of the Royal Society B` 380(1919), 20230313. [Link](https://doi.org/10.1098/rstb.2023.0313).
+25. Mulvey, L. P. A., **May, M. R.**, Brown, J. M., Höhna, S., Wright, A. M., & Warnock, R. C. M. (2025). *Assessing the adequacy of morphological models using posterior predictive simulations.* `Systematic Biology` 74(1), 34--52. [Link](https://doi.org/10.1093/sysbio/syae055).
+24. Tribble, C. M., Márquez-Corro, J. I., **May, M. R.**, Hipp, A. L., Escudero, M., & Zenil-Ferguson, R. (2025). *Macroevolutionary inference of complex modes of chromosomal speciation in a cosmopolitan plant lineage.* `New Phytologist` 245(5), 2350--2361. [Link](https://doi.org/10.1111/nph.20353).
+23. Oyston, J. W., **May, M. R.**, & Felice, R. N. (2025). *Brain size dependent speciation and extinction rates in birds and the cognitive buffer hypothesis.* `bioRxiv`; preprint. [Link](https://doi.org/10.1101/2025.02.04.634049).
+22. **May, M. R.** & Rannala, B. (2024). *Early detection of highly transmissible viral variants using phylogenomics.* `Science Advances` 10, eadk7623. [Link](https://doi.org/10.1126/sciadv.adk7623).
+21. Calderón del Cid, C., Hauffe, T., Carrillo, J. D., **May, M. R.**, Warnock, R. C. M., & Silvestro, D. (2024). *Challenges in estimating species' age from phylogenetic trees.* `Global Ecology and Biogeography` 33(10), e13890. [Link](https://doi.org/10.1111/geb.13890).
+20. **May, M. R.** & Rothfels, C. J. (2023). *Diversification models conflate likelihood and prior, and cannot be compared using conventional model-comparison tools.* `Systematic Biology` 72(3), 713--722. [Link](https://doi.org/10.1093/sysbio/syad010). [Talk recording](https://www.youtube.com/watch?v=SWldXeWet68).
+19. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2023). *PrioriTree: a utility for improving phylodynamic analyses in BEAST.* `Bioinformatics` 39(1), btac849. [Link](https://doi.org/10.1093/bioinformatics/btac849).
+18. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2023). *Model misspecification misleads inference of the spatial dynamics of disease outbreaks.* `Proceedings of the National Academy of Sciences` 120(11), e221391312. [Link](https://doi.org/10.1073/pnas.2213913120).
+17. Tribble, C. M., **May, M. R.**, Jackson-Gain, A., Zenil-Ferguson, R., Specht, C. D., & Rothfels, C. J. (2023). *Unearthing modes of climatic adaptation in underground storage organs across Liliales.* `Systematic Biology` 72(1), 198--212. [Link](https://doi.org/10.1093/sysbio/syac070).
+16. Gao, J., **May, M. R.**, Rannala, B. & Moore, B. R. (2022). *New phylogenetic models incorporating interval-specific dispersal dynamics improve inference of disease spread.* `Molecular Biology and Evolution` 39(8), msac159. [Link](https://doi.org/10.1093/molbev/msac159).
+15. Barido-Sottani, J., Justison, J. A., Borges, R., Brown, J. M., Dismukes, W., do Rosario Petrucci, B., \..., **May, M. R.**, \..., & Heath, T. A. (2022). *Lessons learned from organizing and teaching virtual phylogenetics workshops.* `Bulletin of the Society of Systematic Biologists` 1(2). [Link](https://doi.org/10.18061/bssb.v1i2.8425).
+14. Tribble, C. M., Freyman, W. A., Landis, M. J., Lim, J. Y., Barido-Sottani, J., Kopperud, B. T., Höhna, S. & **May, M. R.** (2022). *RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes.* `Methods in Ecology and Evolution` 13(2), 314--323. [Link](https://doi.org/10.1111/2041-210X.13750).
+13. **May, M. R.**, Contreras, D. L., Sundue, M. A., Nagalingum, N. S., Looy, C. V., & Rothfels, C. J. (2021). *Inferring the total-evidence timescale of Marattialean fern evolution in the face of model sensitivity.* `Systematic Biology` 70(6), 1232--1255. [Link](https://doi.org/10.1093/sysbio/syab020). [Talk recording](https://www.youtube.com/watch?v=5H_u9bjn064).
+12. Thompson, A., **May, M. R.**, Moore, B. R., & Kopp, A. (2020). *A hierarchical Bayesian mixture model for inferring the expression state of genes in transcriptomes.* `Proceedings of the National Academy of Sciences` 117(32), 19339--19346. [Link](https://doi.org/10.1073/pnas.1919748117).
 11. **May, M. R.** & Moore, B. R. (2020). *A Bayesian approach for inferring the impact of a discrete character on rates of continuous-character evolution in the presence of background-rate variation.* `Systematic Biology` 69(3), 530--544. [Link](https://doi.org/10.1093/sysbio/syz069).
 10. Turelli, M., Cooper, B. S., Richardson, K. M., Ginsberg, P. S., Peckenpaugh, B., Antelope, C. X., \..., **May, M. R.**, \... & Hoffmann, A. A. (2018). *Rapid global spread of wRi-like Wolbachia across multiple Drosophila.* `Current Biology` 28(6), 963--971. [Link](https://linkinghub.elsevier.com/retrieve/pii/S0960982218301696).
-9. Jiao, Y., Peluso, P., Shi, J., Liang, T., Stitzer, M. C., Wang, B., \..., **May, M. R.** ,\... & Ware, D. (2017). *Improved maize reference genome with single-molecule technologies.* `Nature` 546(7659), 524--527. [Link](https://www.nature.com/articles/nature22971).
-8. **May, M. R.**, S. Höhna, & B. R. Moore (2016). *A Bayesian approach for detecting the impact of mass-extinction events on molecular phylogenies when rates of lineage diversification may vary.* `Methods in Ecology and Evolution` 7(8), 947--959. [Link](https://doi.org/10.1111/2041-210X.12563).
-7. Moore, B. R., Höhna, S., **May, M. R.**, Rannala, B. & Huelsenbeck, J. P. (2016). *Critically evaluating the theory and performance of Bayesian analysis of macroevolutionary mixtures.* `Proceedings of the National Academy of Sciences` 34(113), 9569--9574. [Link](https://doi.org/10.1073/pnas.1518659113).
-6. **May, M. R.** & Moore, B. R. (2016). *How well can we detect lineage-specific diversification-rate shifts? A simulation study of sequential AIC methods.* `Systematic Biology` 6(65), 1076--1084. [Link](https://doi.org/10.1093/sysbio/syw026).
+9. Jiao, Y., Peluso, P., Shi, J., Liang, T., Stitzer, M. C., Wang, B., \..., **May, M. R.** ,\... & Ware, D. (2017). *Improved maize reference genome with single-molecule technologies.* `Nature` 546(7659), 524--527. [Link](https://doi.org/10.1038/nature22971).
+8. **May, M. R.**, Höhna, S., & Moore, B. R. (2016). *A Bayesian approach for detecting the impact of mass-extinction events on molecular phylogenies when rates of lineage diversification may vary.* `Methods in Ecology and Evolution` 7(8), 947--959. [Link](https://doi.org/10.1111/2041-210X.12563).
+7. Moore, B. R., Höhna, S., **May, M. R.**, Rannala, B. & Huelsenbeck, J. P. (2016). *Critically evaluating the theory and performance of Bayesian analysis of macroevolutionary mixtures.* `Proceedings of the National Academy of Sciences` 113(34), 9569--9574. [Link](https://doi.org/10.1073/pnas.1518659113).
+6. **May, M. R.** & Moore, B. R. (2016). *How well can we detect lineage-specific diversification-rate shifts? A simulation study of sequential AIC methods.* `Systematic Biology` 65(6), 1076--1084. [Link](https://doi.org/10.1093/sysbio/syw026).
 5. Höhna, S., **May, M. R.**, & Moore, B. R. (2016). *TESS: an R package for efficiently simulating phylogenetic trees and performing Bayesian inference of lineage diversification rates.* `Bioinformatics` 32(5), 789--791. [Link](https://doi.org/10.1093/bioinformatics/btv651).
 4. Magee, A. F., **May, M. R.**, & Moore, B. R. (2014). *The dawn of open access to phylogenetic data.* `PLoS One` 9(10), e110268. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110268).
 3. Brandvain, Y., Pauly, G. B., **May, M. R.**, & Turelli, M. (2014). *Explaining Darwin's corollary to Haldane's rule: the role of mitonuclear interactions in asymmetric postzygotic isolation among toads*. `Genetics` 197(2), 743--747. [Link](https://doi.org/10.1534/genetics.113.161133).
 2. Melters, D. P., Bradnam, K. R., Young, H. A., Telis, N., **May, M. R.**, Ruby, J. G., \... & Chan, S. W. (2013). *Comparative analysis of tandem
-repeats from hundreds of species reveals unique insights into centromere evolution.* `Genome Biology` 14(1), 1--20. [Link](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-r10).
+repeats from hundreds of species reveals unique insights into centromere evolution.* `Genome Biology` 14, R10. [Link](https://doi.org/10.1186/gb-2013-14-1-r10).
 1. **May, M. R.**, Provance, M. C., Sanders, A. C., Ellstrand, N. C., & Ross-Ibarra, J. (2009). *A Pleistocene clone of Palmer's oak persisting in southern California.* `PLoS One` 4(12), e8346. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346).
 {: reversed="reversed"}
 
@@ -68,25 +76,28 @@ NSF GRFP Predoctoral Fellowship (2011--2016)
  -->
 
 
-<!-- ## Societies and Services
+## Societies and Services
+
+**Editorial service:** Associate Editor, *Systematic Biology* (2026–present).
 
 **Member of:** _Society of Systematic Biologist_, _Society for the Study of Evolution_, _Botanical Society of America_.  
-<br/>
-**Peer review for:** _Systematic Biology_, _Proceedings of the National Academy of Sciences_, _Proceedings of the Royal Society B_, _Methods in Ecology and Evolution_, _Frontiers in Plant Science_, _Functional Ecology_, _Molecular Biology and Evolution_, _PLoS One_, _PeerJ_.
- -->
 
-## Teaching
+**Peer review for:**  _Systematic Biology_, _Proceedings of the National Academy of Sciences_, _Proceedings of the Royal Society B_, _Methods in Ecology and Evolution_, _Frontiers in Plant Science_, _Functional Ecology_, _Molecular Biology and Evolution_, _PLoS One_, _PeerJ_.
+
+
+## Teaching and Workshops
 
 | 2022--2025 | Instructor for Computational Molecular Evolution (CoME) Workshop (Hinxton, UK, and Crete, GR). |
 | 2022 | Organizer for Divergence-time Estimation Workshop. [Link](https://mikeryanmay.github.io/ted.workshop.github.io/). |
 | 2019--2022 | Instructor for Madrid Phylogenetics Workshop. |
 | 2019 | Organizer and instructor for Bodega Applied Phylogenetics Workshop. |
 | 2018 | Instructor for Madrid Phylogenetics Workshop. |
-| 2018 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). |
 | 2017 | Organizer and instructor for Bodega Applied Phylogenetics Workshop. |
 | 2016 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). _Awarded UC Davis Outstanding Graduate Student Teaching Award 2017._ |
 | 2013--2015 | Organizer and teaching assistant for Bodega Applied Phylogenetics Workshop. |
-| 2012 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). |
+
+<!-- | 2018 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). | -->
+<!-- | 2012 | Teaching assistant for EVE 103: Phylogeny and Macroevolution (UC Davis). | -->
 
 ## Software Tutorials
 
